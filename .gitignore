@@ -1,5 +1,0 @@
-﻿__pycache__/
-*.parquet
-*.pth
-runs/
-.ipynb_checkpoints/
