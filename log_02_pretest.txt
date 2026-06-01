@@ -1,0 +1,10 @@
+讀檔完成 (210106, 81)，pretest 特徵數=77，耗時 0.59 秒
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\碩論數據\main_pretest.py", line 51, in <module>
+    main()
+  File "C:\Users\Administrator\Desktop\碩論數據\main_pretest.py", line 27, in main
+    chi_square, bartlett_p = bartlett(num_df)
+                             ^^^^^^^^^^^^^^^^
+  File "C:\Users\Administrator\Desktop\碩論數據\util_feature.py", line 59, in bartlett
+    from factor_analyzer import calculate_bartlett_sphericity
+ModuleNotFoundError: No module named 'factor_analyzer'

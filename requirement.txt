@@ -1,0 +1,13 @@
+pathlib
+pandas
+numpy
+functools
+factor_analyzer
+sklearn
+matplotlib.pyplot
+seaborn
+scipy
+quantstats
+statsmodels
+os
+torch
